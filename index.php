@@ -1,6 +1,6 @@
 <?php
 // --- 数据库配置 ---
-$host = 'localhost';
+$host = '127.0.0.1';
 $db   = '5SK';
 $user = 'root';
 $pass = 'yeexuanwei091017'; // 根据你的本地或线上数据库密码修改
