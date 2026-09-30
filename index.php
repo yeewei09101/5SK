@@ -1,9 +1,9 @@
 <?php
 // --- 数据库配置 ---
 $host = 'localhost';
-$db   = 'class_memorial';
+$db   = '5SK';
 $user = 'root';
-$pass = ''; // 根据你的本地或线上数据库密码修改
+$pass = 'yeexuanwei091017'; // 根据你的本地或线上数据库密码修改
 
 $message = '';
 $msgType = '';
